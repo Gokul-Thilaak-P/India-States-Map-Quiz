@@ -6,8 +6,8 @@ if you type wrong name nothing happens.
 Learn names of the states of India by fun.
 
 <h2>Language used:</h2>
-Python
+<li>Python</li>
 
 <h2>Module used:</h2>
-Pandas,
-Turtle
+<li>Pandas</li>
+<li>Turtle</li>
