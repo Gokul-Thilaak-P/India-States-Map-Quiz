@@ -5,9 +5,9 @@ Just type the name of the states and it will be displayed on the map and the cou
 if you type wrong name nothing happens.
 Learn names of the states of India by fun.
 
-Language used:
+<h2>Language used:</h2>
 Python
 
-Module used:
+<h2>Module used:</h2>
 Pandas,
 Turtle
